@@ -16,4 +16,9 @@ Fork this repository and complete the following tasks:
 - See https://github.com/saumyakraj/tutorial2 for reference
 
 ### Subtask4
-- Extend this readme in your repository, explaining  how you completed the work in the various subtasks. 
+- Extend this readme in your repository, explaining  how you completed the work in the various subtasks.
+
+1. Created an app folder with __init__.py, admin_view.py, views.py in it{separate view for admin and public}
+2. Created a folder called templates with the html files for the public and admin views
+3. Then, rendered the templates from the templates folder to view.py and admin_view.y
+4. Then, created a postgres table with the help of commands given in the extras.txt 
